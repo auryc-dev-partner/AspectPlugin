@@ -41,8 +41,8 @@ apply plugin: "com.gradle.plugin-publish"
 
 pluginBundle {
 
-  website = 'http://www.gradle.org/'
-  vcsUrl = 'https://github.com/gradle/gradle'
+  website = 'http://www.auryc.com/'
+  vcsUrl = 'https://github.com/auryc-dev-partner/AspectPlugin'
   description = 'Auryc Aspect Plugin'
   plugins {
     aspectPlugin {
